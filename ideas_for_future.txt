@@ -1,0 +1,30 @@
+Clustering Algorithms:
+
+
+K-Means: Show how centroids move and clusters form (done)
+DBSCAN: Visualize density-based clustering (done)
+Hierarchical Clustering: Show dendrogram formation (done)
+
+
+Dimensionality Reduction:
+
+PCA: Visualize principal components and variance explanation (done)
+t-SNE: Show high-dimensional data visualization (done)
+UMAP: Modern dimensionality reduction (done)
+
+
+Simple but Important Classifiers:
+
+KNN: Show how neighbors influence decisions (done)
+Naive Bayes: Visualize probability distributions (done)
+Decision Trees (single): Good foundation before RF/GBM (done)
+
+Advanced Topics:
+
+AutoEncoders: Show data compression/reconstruction (done)
+Ensemble Methods: Bagging vs Boosting comparison (done)
+Cross-Validation: Show train/test splits (done)
+GANs (done)
+RNN (done)
+CNN (done)
+MLP (done)
